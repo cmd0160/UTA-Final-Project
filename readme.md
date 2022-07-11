@@ -1,6 +1,6 @@
 # Rio Colorado Golf Course Website Rebuild
 
-[HOMEPAGE URL](http://www.riocoloradogolf.com)
+[HOMEPAGE URL](https://www.riocoloradogolf.com/)
 
 [GITHUB REPO](https://github.com/Chewbakkah/UTA-Final-Project/tree/main/rio-colorado-golf)
 
